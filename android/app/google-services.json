@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465451906096",
+    "firebase_url": "https://myapp-217b0.firebaseio.com",
+    "project_id": "myapp-217b0",
+    "storage_bucket": "myapp-217b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465451906096:android:02030f604e99cecb",
+        "android_client_info": {
+          "package_name": "com.example.latihan_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465451906096-ce0qt5ft9l855ni0uj9ctbv32nkaq64l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_2",
+            "certificate_hash": "852768c97614dc60cd3dd91f720156148797b24b"
+          }
+        },
+        {
+          "client_id": "465451906096-aa2284rc0opdoab329ghr81o24lh384u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevLNu7yRy2FSo0pBGAoufeiqomd5EB7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465451906096-aa2284rc0opdoab329ghr81o24lh384u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
